@@ -1,0 +1,8 @@
+D:\sharpLessons\UlearnProjects\StringExercises\StringExecrises\SimpleStringExecrises\bin\Debug\SimpleStringExecrises.exe.config
+D:\sharpLessons\UlearnProjects\StringExercises\StringExecrises\SimpleStringExecrises\bin\Debug\SimpleStringExecrises.exe
+D:\sharpLessons\UlearnProjects\StringExercises\StringExecrises\SimpleStringExecrises\bin\Debug\SimpleStringExecrises.pdb
+D:\sharpLessons\UlearnProjects\StringExercises\StringExecrises\SimpleStringExecrises\obj\Debug\SimpleStringExecrises.csproj.AssemblyReference.cache
+D:\sharpLessons\UlearnProjects\StringExercises\StringExecrises\SimpleStringExecrises\obj\Debug\SimpleStringExecrises.csproj.SuggestedBindingRedirects.cache
+D:\sharpLessons\UlearnProjects\StringExercises\StringExecrises\SimpleStringExecrises\obj\Debug\SimpleStringExecrises.csproj.CoreCompileInputs.cache
+D:\sharpLessons\UlearnProjects\StringExercises\StringExecrises\SimpleStringExecrises\obj\Debug\SimpleStringExecrises.exe
+D:\sharpLessons\UlearnProjects\StringExercises\StringExecrises\SimpleStringExecrises\obj\Debug\SimpleStringExecrises.pdb
